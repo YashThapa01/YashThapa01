@@ -109,7 +109,7 @@
 ### Most Used Languages
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashThapa01&show_icons=true&locale=en&layout=compact" alt="YashThapa01" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashThapa01&show_icons=true&locale=en&layout=compact" alt="unon4all" />
 </p>
 
 ### GitHub Stats
